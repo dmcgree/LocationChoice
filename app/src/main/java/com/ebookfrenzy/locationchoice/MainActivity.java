@@ -1,3 +1,12 @@
+//CIS 3334 Sec 700 Mobile Device Programming - Spring 2016
+//Assignment 5 Location Choice
+//Date: 02/25/2016
+//Submitted by: Dana McGree
+//This app uses three widgets or views laid out in a vertical fashion.  A simple Text View that states "Select a Location".  
+//The second one is a spinner that will display the address of five Dominos in the area.  The third is a button labeled "Find Pizza".
+//When the user selects a location and clicks the button, a new activity will be loaded with an explicit intent. This new activity 
+//will display the address of the selected Dominos.
+
 package com.ebookfrenzy.locationchoice;
 
 import android.content.Intent;
