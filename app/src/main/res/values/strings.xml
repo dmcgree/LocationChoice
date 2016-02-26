@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LocationChoice</string>
+    <string name="action_settings">Settings</string>
+    <string name="location">Select a location:</string>
+    <string name="findPizza">Find Pizza</string>
+    <string-array name="address_arrary">
+        <item>103 W 23rd Street Hastings, MN</item>
+        <item>3019-A South Service Dr Red Wing, MN</item>
+        <item>7145 E Point Douglas Road S Cottage Grove, MN</item>
+        <item>118 N Main Street River Falls, WI</item>
+        <item>6635 Cahill Avenue Inver Grove Heights, MN</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="locationChoice">Location Choice</string>
+</resources>
